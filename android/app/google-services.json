@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643191468710",
+    "firebase_url": "https://latihan-analytic.firebaseio.com",
+    "project_id": "latihan-analytic",
+    "storage_bucket": "latihan-analytic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643191468710:android:b3606a49303f89ba",
+        "android_client_info": {
+          "package_name": "com.rifafauzi.flutter_firebase_analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643191468710-t5cdfg84ed3hp05u1usj3rl6t5qtd622.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHk-ZuaSmQgiw3msJ5wZGs2PtEjihPP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643191468710-t5cdfg84ed3hp05u1usj3rl6t5qtd622.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643191468710-ija201nq7m180scrr0nsaabrpmoaecvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rifafauzi.flutterFirebaseAnalytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
